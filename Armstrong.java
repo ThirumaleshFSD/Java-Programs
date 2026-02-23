@@ -1,6 +1,6 @@
 public class Armstrong {
     public static void main(String[] args) {
-        int num = 372;
+        int num = 370;
         int originalNum = num;
         int result = 0;
         while (originalNum != 0) {
