@@ -1,5 +1,5 @@
 public class Duplicate {
-    public static void main(String[] args) {
+    public static void m(String[] args) {
         int a=Integer.MAX_VALUE;
 
         int arr[]={1,1,2,3,4,5,2,3,5,5,10};
