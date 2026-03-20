@@ -19,8 +19,13 @@ public class AutomorphicRecursion {
         int n = 25;
         int sq = n * n;
  //changed
-        if (isAutomorphic(n, sq)) {
-            System.out.println(n + " is Automorphic");
+        if (isAutomorphic(n, sq)) {  
+
+
+
+
+
+  System.out.println(n + " is Automorphic");
         } else {
             System.out.println(n + " is Not Automorphic");
         }
