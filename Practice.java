@@ -1,6 +1,6 @@
 public class Practice {
     public static void Practice(int a,int b){
-        int sum=a+b;
+        int sum=a*b;
         System.out.println(sum);
         // return 0;
 
