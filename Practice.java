@@ -5,6 +5,7 @@ public class Practice {
         // return 0;
 
     }
+    //changed
     public static void main(String[] args){
         Practice obj=new Practice();
         Practice(2,10);
