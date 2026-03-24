@@ -11,6 +11,8 @@ interface Paytm extends Bank {
 }
 
 class Developer implements Gpay, Paytm {
+    //changed in the code 
+    
 
     @Override
     public void check() {
