@@ -3,6 +3,7 @@ abstract class Payment {
     abstract void payAnyone();
     abstract void statements();
 }
+//abstract class 
 abstract class Gpay extends Payment {
      
     abstract void  Upi();
