@@ -5,6 +5,7 @@ public class Average {
         for(int i=0;i<a.length;i++){
             sum+=a[i];
         }
+        //in double format
         System.out.println("Average is "+(sum/a.length));
     }
 }
