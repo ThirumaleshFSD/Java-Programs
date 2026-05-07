@@ -9,6 +9,7 @@ public class Practice {
     public static void main(String[] args){
         Practice obj=new Practice();
         Practice(2,10);
+        //sum finding in this file
         
 
     }
