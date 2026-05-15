@@ -12,7 +12,7 @@ public class perfect {
         } else {
             System.out.println(num + " is not a perfect number.");
         }
-        
+        //perfect number
     }
     int number(int num){
         int sum = 0;
