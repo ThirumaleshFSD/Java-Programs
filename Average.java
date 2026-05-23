@@ -10,3 +10,4 @@ public class Average {
         System.out.println("Average is "+(sum/a.length));
     }
 }
+//comment 
