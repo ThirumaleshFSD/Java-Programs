@@ -1,5 +1,6 @@
 public class Snake {
     public static void main(String[] args) {
+        //spiral method it was
 
         int size = 5;
         int arr[][] = new int[size][size];
